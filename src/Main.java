@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
         int amount = 5500;
-        int x = 20;
+        int rubMile = 20;
 
-        int miles = amount / x;
+        int miles = amount / rubMile;
 
         System.out.println(miles);
     }
